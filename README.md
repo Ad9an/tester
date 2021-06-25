@@ -1,2 +1,2 @@
 # tester
-Learning github repository
+Learning github repository adding first text to the readme.md file
